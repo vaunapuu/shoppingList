@@ -6,5 +6,9 @@ body {
     /*grid-gap: .5rem;*/
   }
 #add-number {
-    width: 20px;
+    width: 30px;
+    color: black;
+}
+#add-text {
+    color: black;
 }
