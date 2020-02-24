@@ -1,4 +1,10 @@
-h1 {
-    text-justify: auto;
+body {
+    text-align: center;
     color: red;
+    display: grid;
+    grid-auto-rows: minmax(125px, auto);
+    /*grid-gap: .5rem;*/
+  }
+#add-number {
+    width: 20px;
 }
